@@ -2,7 +2,7 @@
 
 💡 &nbsp;Hi I am Mohammad Tat-Shahdoost, A Front End Enginner who build tools for better life.\
 ⚡ &nbsp;I am graduated as an Electrical Electronic Engineer from university (Bachelor's Degree).\
-✍️ &nbsp;I love playing games beside my work so feel free to join me on steam sauron9000.\
+🎲 &nbsp;I love playing games beside my work so feel free to join me on steam sauron9000.\
 💬 &nbsp;Feel free to reach out to me for Any oportunity full time or part time.\
 ✉️ &nbsp;You can shoot me an email at tatshahdoost.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mohammad-tatshahdoost/) for more details about me.
