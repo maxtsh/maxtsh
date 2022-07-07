@@ -8,8 +8,6 @@
 ✉️ &nbsp;You can shoot me an email at alirezatk73@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mohammad-tatshahdoost/) for more details about me.
 
-<img alt="MaxTsh" src="./Cover.png" align="center"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
@@ -24,6 +22,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=956feb)&nbsp;
+
+<img alt="MaxTsh" src="./Cover.png" align="center"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
