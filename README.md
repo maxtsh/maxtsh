@@ -8,7 +8,7 @@
 ✉️ &nbsp;You can shoot me an email at alirezatk73@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mohammad-tatshahdoost/) for more details about me.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="MaxTsh" src="./Cover.png" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
