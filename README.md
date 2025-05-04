@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 &nbsp;Who am I?
 
-💡 &nbsp;Hi I am Mohammad Tat-Shahdoost, A Front End Enginner who build tools for better life.\
+💡 &nbsp;Hi I am Mohammad (Nickname: Max) Shahdoost, A Software Engineer who builds tools for a  better life.\
 ⚡ &nbsp;I am graduated as an Electrical Electronic Engineer from university (Bachelor's Degree).\
-🎲 &nbsp;I love playing games beside my work so feel free to join me on steam sauron9000.\
-💬 &nbsp;Feel free to reach out to me for Any oportunity full time or part time.\
+🎲 &nbsp;I love playing games besides my work, so feel free to join me on Steam, sauron9000.\
+💬 &nbsp;Feel free to reach out to me for any opportunity, full-time or part-time.\
 ✉️ &nbsp;You can shoot me an email at tatshahdoost.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/max-tatshahdoost/) for more details about me.
 
